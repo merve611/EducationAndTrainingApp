@@ -15,15 +15,15 @@
 
 
  <h1 id="built-with">Proje Görünümü</h1>
-<h6>İlk Giriş</h6>
-<img src="https://github.com/merve611/LibraryManagementSystem/blob/master/images/ilkgiris.JPG"/>
+ 
+<img src="https://github.com/merve611/EducationAndTrainingApp/blob/master/EducationAndTrainingApp.WebApi/wwwroot/images/api.JPG"/>
 <h6>Kayıt Olma</h6>
-<img src="https://github.com/merve611/LibraryManagementSystem/blob/master/images/kayıtolma.JPG"/>
+<img src="https://github.com/merve611/EducationAndTrainingApp/blob/master/EducationAndTrainingApp.WebApi/wwwroot/images/register.JPG"/>
 
-<h6>Yazar Ekleme</h6>
-<img src="https://github.com/merve611/LibraryManagementSystem/blob/master/images/yazarekleme.JPG"/>
-<h6>Yeni Eklenen Yazar Kitap Ekleme bölümünde seçilebildi</h6>
-<img src="https://github.com/merve611/LibraryManagementSystem/blob/master/images/yenieklenenyazarlistedeçıktı.JPG"/>
+<h6>Giriş Yapma</h6>
+<img src="https://github.com/merve611/EducationAndTrainingApp/blob/master/EducationAndTrainingApp.WebApi/wwwroot/images/admin_logini.JPG"/>
+<h6>Database Tarafı</h6>
+<img src="https://github.com/merve611/EducationAndTrainingApp/blob/master/EducationAndTrainingApp.WebApi/wwwroot/images/data_protection_sifreleme.JPG"/>
 
 
 
