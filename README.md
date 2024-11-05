@@ -37,44 +37,18 @@
 
  <h1 id="built-with">Geliştirildiği Teknolojiler</h1>
 
-<table>
-  <tbody>
-    <tr>
-      <td><a href="#"><img alt="JavaScript" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></td>
-      <td><a href="#"><img alt="HTML5" title="HTML5" height="50px"                      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a></td>
-       <td><a href="#"><img alt="CSS3" title="CSS3" height="50px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-            </td>
-       <td><a href="#"><img alt="Bootstrap" title="Bootstrap" height="50px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
-            </td>
-    </tr
-    <tr>
-      <td><a href="#"><img alt="ASP" title="ASP" height="50px"
-                        src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" /></a>
-            </td>
-      <td><a href="#"><img alt="C#" title="C#" height="50px"
-                         /></a>
-            </td>
-       <td>
-            </td>
-      <td>
-            </td>
-    </tr>
-    <tr>
-       <td><a href="#"><img alt="Git" title="Git" height="50px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
-            </td>
-      <td><a href="#"><img alt="ASP" title="ASP" height="30px"
-                        src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white" /></a>
-            </td>
-       
-    
-   <tr>
-     </td>
-      
-  </tbody>
-</table>
+<h5>ASP.NET Core Web API</h5>
+<h5>Entity Framework</h5>
+<h5>MSSQL Server</h5>
+<h5>Authentication</h5>
+<h5>Authorization</h5>
+<h5>Middleware</h5>
+<h5>Action Filter</h5>
+<h5>Action Filter</h5>
+<h5>Model validation </h5>
+
+
+
 
 
 <h1 > İletişim</h1>
