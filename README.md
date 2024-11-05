@@ -4,16 +4,13 @@
 **Patika.dev .NET Core Bootcamp** 3. bitirme projesi olarak **Education and Training API** isimli uygulamayı geliştirdim.  **Education and Training API** bir eğitim platformu API'sidir. 
 
 
-
-* 🙇‍♂️: 🙇‍♀️: **Yazar Listesi** : Bu alan yazarların listesini gösterir. Liste içerisinde bulunan metotlar sayesinde yazarların detayını görebilir, yazar ekleyebilir, silebilir ve güncelleyebilirsiniz. 
-
-* 🆕:: **Register**: Kayıt olma işlemi Authentication kullanılarak uygulanmıştır. Kullanıcının kayıt esnasında girdiği şifre Data Protection kullanılarak database tarafına şifrelenmiş olarak gelmektedir. 
-* ⬆️:: **Login**: Kullanıcı email ve şifresi ile giriş yapar, herhangi birini yanlış girerse uyarı alır.
+* 🆕  **Register**: Kayıt olma işlemi Authentication kullanılarak uygulanmıştır. Kullanıcının kayıt esnasında girdiği şifre Data Protection kullanılarak database tarafına şifrelenmiş olarak gelmektedir. 
+* ⬆️  **Login**: Kullanıcı email ve şifresi ile giriş yapar, herhangi birini yanlış girerse uyarı alır.
          Kullanıcıya Authorization kulllanılarak ile yetkilendirme verildi. Örneğin kullanıcı admin rolünde ise Jwt kullanılarak oluşturulan token Authorize edilerek yetki tanımlanması yapılmaktadır.
 * 
-* ⬇️:: **Get-Post-Put-Patch-Delete**: CoursesController içerisinde oluşturulan bu endpointler ile kurs ekleme, silme, listeleme ve güncelleme işlemleri yapılır.
+* ⬇️ **Get-Post-Put-Patch-Delete**: CoursesController içerisinde oluşturulan bu endpointler ile kurs ekleme, silme, listeleme ve güncelleme işlemleri yapılır.
 
-* star:: Oluşturulan Model Validasyonlar ile ilgili özelliğe gerekli kısıtlamalar getirilmiştir.
+* :star: Oluşturulan Model Validasyonlar ile ilgili özelliğe gerekli kısıtlamalar getirilmiştir.
 * :star: Middleware kullanılarak API istenildiğinde bakıma sokulur hale getirildi.
 * :star: Action Filter kullanılarak atılan endpoint isteğine göre kullanıcıya uyarı mesajı verilebilir hale geldi. 
 
