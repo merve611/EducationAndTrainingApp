@@ -7,7 +7,6 @@
 * 🆕  **Register**: Kayıt olma işlemi Authentication kullanılarak uygulanmıştır. Kullanıcının kayıt esnasında girdiği şifre Data Protection kullanılarak database tarafına şifrelenmiş olarak gelmektedir. 
 * ⬆️  **Login**: Kullanıcı email ve şifresi ile giriş yapar, herhangi birini yanlış girerse uyarı alır.
          Kullanıcıya Authorization kulllanılarak ile yetkilendirme verildi. Örneğin kullanıcı admin rolünde ise Jwt kullanılarak oluşturulan token Authorize edilerek yetki tanımlanması yapılmaktadır.
-* 
 * ⬇️ **Get-Post-Put-Patch-Delete**: CoursesController içerisinde oluşturulan bu endpointler ile kurs ekleme, silme, listeleme ve güncelleme işlemleri yapılır.
 
 * :star: Oluşturulan Model Validasyonlar ile ilgili özelliğe gerekli kısıtlamalar getirilmiştir.
